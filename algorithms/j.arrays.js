@@ -37,5 +37,6 @@ var ja = (function () {
 
 
 document.getElementById("array1").innerHTML = ja.fibonacci;
-document.getElementById("linked-list1").innerHTML == list;
+
+
 //\\
