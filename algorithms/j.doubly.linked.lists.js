@@ -94,8 +94,8 @@ function jDoublyLinkedList() {
         else {
             return null;
         }
-    }; // ^_^ END OF .removeAt() ^_^ \\
-} // ^_^ END OF jDoublyLinkedList class ^_^ \\
+    }; //----- ^_^ END OF .removeAt() ^_^ -----\\
+} //----- ^_^ END OF jDoublyLinkedList class ^_^ -----\\
 // use my doubly linked list now.
 var dllist = new jDoublyLinkedList();
 dllist.append(15);
